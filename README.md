@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning **MERN stack and exploring AI development**
-
+- 
 - 👯 I’m looking to collaborate on **React, Node.js, and full-stack web development projects**
 
 - 🤝 I’m looking for help with **deployment, React, and Node.js best practices**
