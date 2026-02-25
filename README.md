@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Oli</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
+<h3 align="center">A passionate Mern Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-oli&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-oli" /> </p>
 
