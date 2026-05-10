@@ -1,30 +1,104 @@
-<h1 align="center">Hi 👋, I'm Harshit Oli</h1>
-<h3 align="center">A passionate Mern Stack developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Harshit%20Oli&fontSize=85&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Open%20Source%20Learner&descAlignY=55&descAlign=50" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-oli&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-oli" /> </p>
+<div align="center">
 
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+Modern+MERN+Applications;Learning+Generative+AI+with+JavaScript;Exploring+React+%26+Node.js;Always+Learning+New+Technologies" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **MERN stack and exploring AI development**
-- 
-- 👯 I’m looking to collaborate on **React, Node.js, and full-stack web development projects**
+<p>
+<a href="https://www.linkedin.com/in/harshit-oli-2a195a2a4/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-- 🤝 I’m looking for help with **deployment, React, and Node.js best practices**
-
-- 💬 Ask me about **MERN stack**
-
-- 📫 How to reach me **https://www.linkedin.com/in/harshit-oli-2a195a2a4/**
-
-- ⚡ Fun fact **I’ve started learning Generative AI using JavaScript**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-oli-2a195a2a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-oli-2a195a2a4/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/harshit_oli9997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/harshit_oli9997/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/harshit_oli9997/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Harshit_Oli-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br />
+</div>
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-oli&" alt="harshit-oli" /></p>
+# 👨‍💻 About Me
 
+Hi 👋, I'm **Harshit Oli**, a passionate **MERN Stack Developer** from **India 🇮🇳**
+
+I enjoy building scalable full-stack applications and exploring modern web technologies. Currently, I’m learning **Generative AI with JavaScript** while strengthening my skills in the MERN ecosystem.
+
+> 💡 *"I turn coffee into scalable web apps."*
+
+---
+
+# 🚀 Current Goals
+
+- 🌱 Master the **MERN Stack**
+- 🤖 Explore **AI Development & Generative AI**
+- ⚛️ Build modern apps using **React & Next.js**
+- 🧠 Improve problem-solving and DSA skills
+- 🚀 Learn deployment and backend best practices
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+| Frontend | Backend & Database | Languages & Tools |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,redux" width="300" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,redis" width="250" /> | <img src="https://skillicons.dev/icons?i=cpp,js,ts,git,github,docker,aws,postman,vscode" width="320" /> |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=harshit-oli&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="48%" /> -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-oli&theme=tokyonight&hide_border=false" width="48%" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-oli&theme=tokyonight&layout=compact&hide_border=false" width="48%" /> -->
+
+<br /><br />
+
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshit-oli&theme=tokyonight" /> 
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I’m open to collaborations, internships, and exciting full-stack development opportunities.
+
+If you want to discuss web development, React, Node.js, or AI — feel free to connect with me 🚀
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/harshit-oli-2a195a2a4/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Harshit%20Oli-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://leetcode.com/u/harshit_oli9997/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Harshit_Oli-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=harshit-oli&style=flat-square&color=blueviolet" alt="Profile Views" />
+</div>
